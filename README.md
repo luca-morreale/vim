@@ -18,7 +18,7 @@
 * Install python flake8 or any other syntax checker allowed by syntastic
 
 * Install YouCompleteMe by running `./install.py --clang-completer` in the 
-  `.bundle/YouCompleteMe` directory
+  `./bundle/YouCompleteMe` directory
 
 ### USAGE
 
