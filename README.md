@@ -2,7 +2,7 @@
 
 * Clone into ~/.vim: 
   ```
-  git clone https://github.com/fvisin/vim.git ~/.vim
+  git clone https://github.com/luca-morreale/vim.git ~/.vim
   ```
 * Install vundle: 
   ```
@@ -18,7 +18,7 @@
 * Install python flake8 or any other syntax checker allowed by syntastic
 
 * Install YouCompleteMe by running `./install.py --clang-completer` in the 
-  `./bundle/YouCompleteMe` directory
+  `~/.vim/bundle/YouCompleteMe` directory
 
 ### USAGE
 
