@@ -294,7 +294,7 @@ set wrap! " Wrap lines
 " set formatoptions+=t " Enable automatic text wrapping --> vim-pep8-text-width
 " set si " Smart indent: automatically insert one extra level in some cases
 " set listchars=tab:\|\<Space> " how to highlight tabs
-" set number " Show line numbers
+set number " Show line numbers
 " set lbr " Set line break
 let g:pep8_text_width = 100     " Default 79
 let g:pep8_comment_text_width = 120 " Default 72
